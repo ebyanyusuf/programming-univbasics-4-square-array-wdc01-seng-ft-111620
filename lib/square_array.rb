@@ -7,5 +7,5 @@ def square_array(array)
     squared.push(array[count]**2)
     count += 1
   end
-  array
+  squared
 end
