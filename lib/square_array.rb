@@ -3,4 +3,6 @@
 def square_array(array)
   array = [ ]
   count = 0
-  while count 
+  while count < array.length do
+    array.push()
+    
